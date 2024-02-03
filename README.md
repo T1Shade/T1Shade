@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @T1Shade
-- 👀 I’m interested in Programming,well im new but im exited
+- 👀 I’m interested in Programming,well im new but im excited
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on Team Cherry XDDD
 - 📫 How to reach me idk
